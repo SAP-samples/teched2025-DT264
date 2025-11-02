@@ -1,47 +1,40 @@
 # DT264 - How to start transitioning to SAP Cloud ERP Private
 
-## Description
-
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
-
 ## Overview
+<p align="justify">This hands-on session shows how to transition from <b>SAP ERP 6.0</b> to <b>SAP Cloud ERP Private</b> using <b>SAP Business Transformation Center</b> (BTC). It provides a practical introduction to the tools and concepts that support a data-driven transformation journey.</p>
+<p align="justify">During the session, you will evaluate transition options using the <b>Find Transformation Approach</b> app and initialize your first transformation project. These steps form the foundation for executing a <b>Selective Data Transition</b> in later exercises, enabling a <b>smooth</b> and <b>data-driven</b> move to <b>SAP Cloud ERP Private</b>.</p>
 
-This session introduces attendees to...
+![](./resources/images/Screenshot-01.png)<br><br>
 
 ## Requirements
-
-The requirements to follow the exercises in this repository are...
+To complete the exercises in this hands-on session, you need **SAP GUI** and a **web browser** (preferably **Google Chrome**).<br><br>
 
 ## Exercises
+<p align="justify">Building on the concepts introduced above, the following exercises take you through <b>each phase</b> of a <b>data-driven transition</b> using <b>SAP Business Transformation Center</b> — from <b>transformation guidance</b> and <b>scoping</b> to <b>modeling</b> and <b>executing</b>.</p>
+<p align="justify">Step by step, you will analyze your <b>system data</b>, define your <b>transformation approach</b>, and <b>execute the transition</b> to <b>SAP Cloud ERP Private</b> in a lean and controlled way.</p>
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+<p align="justify">Below you find an overview of all exercises included in this hands-on session:</p>
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Scenario Overview](exercises/ex0/)
+- [Exercise 1 - Build the Foundation: Upload UDP & MRC File](exercises/ex1/)
+- [Exercise 2 - Analyze Transition Options: Find Transition Approach](exercises/ex2/)
+- [Exercise 3 - Initialize Project: Create Digital Blueprint](exercises/ex3/)
+- [Exercise 4 - Scope the Blueprint: Select & Reduce Data](exercises/ex4/)
+- [Exercise 5 - Build the Model: Create Transformation Model & Version](exercises/ex5/)
+- [Exercise 6 - Initialize Cycle: Create Cycle & Run Prevalidation](exercises/ex6/)
+- [Exercise 7 - Execute Blueprint: Review Reference Cycle](exercises/ex7/)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+<br>
 
 ## Contributing
-Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
+Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.<br><br>
 
 ## Code of Conduct
-Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
+Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).<br><br>
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.<br><br>
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
