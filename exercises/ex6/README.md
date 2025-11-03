@@ -8,7 +8,7 @@ Follow these steps to complete the exercise:<br>
 
 2.  The **Manage Cycles** application opens with your **Transformation Model** and **Transformation Model Version** preselected.<br>
 3.  Maintain the following details in the **Cycle Attributes** and **System Connection** sections, then choose Create:<br>
-    - **Name**: **CYCLE_DT264_XX** (replace *XX* with your exercise number, for example **CYCLE_DT264_01**)
+    - **Name**: **CYCLE_DT264_US_XX** (replace *XX* with your exercise number, for example **CYCLE_DT264_US_01**)
     - **Type**: **Test**
     - **Retention Date**: for example **Dec 31, 2025**
     - **Use DTV Tool**: **Yes**
@@ -21,7 +21,7 @@ Follow these steps to complete the exercise:<br>
 
 4.  After a few seconds, the **Cycle** is successfully created and appears in status **New**.<br><br>
     It serves as the **execution layer** of your transformation model version, connecting the source and target systems. Each cycle follows **four structured phases** that guide the end-to-end data transformation.<br><br>
-    ![](/exercises/ex5/images/Screenshot-03.png)<br>
+    ![](/exercises/ex6/images/Screenshot-03.png)<br>
 
 5.  Next, begin with the **first phase** of the cycle — **Prevalidation**. Choose **1. Cycle Prevalidation** to open the corresponding section.<br><br>
     ![](/exercises/ex6/images/Screenshot-04.png)<br>
@@ -41,7 +41,7 @@ Follow these steps to complete the exercise:<br>
 9.  **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/w5t4kyl2) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264a/quiz/qoqc53td) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

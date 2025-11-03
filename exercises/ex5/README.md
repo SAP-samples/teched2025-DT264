@@ -7,7 +7,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex5/images/Screenshot-01.png)<br>
 
 2.  The **Manage Transformation Models** application opens, with your blueprint already preselected.<br>
-3.  Enter **TRF_MDL_DT264_XX** (replace *XX* with your exercise number, for example **TRF_MDL_DT264_01**) as **Title** and choose **Create**.<br><br>
+3.  Enter **TRF_MDL_DT264_US_XX** (replace *XX* with your exercise number, for example **TRF_MDL_DT264_US_01**) as **Title** and choose **Create**.<br><br>
     ![](/exercises/ex5/images/Screenshot-02.png)<br>
 
 4.  After a few seconds, the **Transformation Model** is successfully created.<br><br>
@@ -48,7 +48,7 @@ Follow these steps to complete the exercise:<br>
 14. **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/7v6kfj3m) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264a/quiz/4o7ulyfl) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

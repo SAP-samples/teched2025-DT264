@@ -6,7 +6,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within the **Create a Digital Blueprint** task summary, choose **Navigate to Manage Digital Blueprints**.<br><br>
     ![](/exercises/ex3/images/Screenshot-01.png)<br>
 
-2.  Enter **BLUEPRINT_DT264_XX** (replace *XX* with your exercise number, for example **BLUEPRINT_DT264_01**) as the **Name**, and select the UDP **Analysis** created in the first exercise. Afterwards, choose **Create**.<br><br>
+2.  Enter **BLUEPRINT_DT264_US_XX** (replace *XX* with your exercise number, for example **BLUEPRINT_DT264_US_01**) as the **Name**, and select the UDP **Analysis** created in the first exercise. Afterwards, choose **Create**.<br><br>
     ![](/exercises/ex3/images/Screenshot-02.png)<br>
 3.  The **Digital Blueprint** has now been successfully created.<br><br>
     ![](/exercises/ex3/images/Screenshot-03.png)<br>
@@ -36,7 +36,7 @@ Follow these steps to complete the exercise:<br>
 12. **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/ohbcvk6v) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264a/quiz/dq8rna0v) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

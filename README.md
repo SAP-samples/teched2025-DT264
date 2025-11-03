@@ -1,4 +1,4 @@
-# DT264 - How to start transitioning to SAP Cloud ERP Private
+# DT264 - How to start transitioning to SAP Cloud ERP Private (ASUG)
 
 ## Overview
 <p align="justify">This hands-on session shows how to transition from <b>SAP ERP 6.0</b> to <b>SAP Cloud ERP Private</b> using <b>SAP Business Transformation Center</b> (BTC). It provides a practical introduction to the tools and concepts that support a data-driven transformation journey.</p>
