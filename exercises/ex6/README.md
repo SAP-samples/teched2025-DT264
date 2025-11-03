@@ -21,7 +21,7 @@ Follow these steps to complete the exercise:<br>
 
 4.  After a few seconds, the **Cycle** is successfully created and appears in status **New**.<br><br>
     It serves as the **execution layer** of your transformation model version, connecting the source and target systems. Each cycle follows **four structured phases** that guide the end-to-end data transformation.<br><br>
-    ![](/exercises/ex5/images/Screenshot-03.png)<br>
+    ![](/exercises/ex6/images/Screenshot-03.png)<br>
 
 5.  Next, begin with the **first phase** of the cycle — **Prevalidation**. Choose **1. Cycle Prevalidation** to open the corresponding section.<br><br>
     ![](/exercises/ex6/images/Screenshot-04.png)<br>
