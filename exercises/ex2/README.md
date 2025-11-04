@@ -13,7 +13,7 @@ This exercise consists of the following sub-exercises:
 
 ### Steps:
 Follow these steps to complete the exercise:<br>
-1.  Open [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**).<br>
+1.  Open [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -23,7 +23,7 @@ Follow these steps to complete the exercise:<br>
 3.  In the **Find Transformation Approach** application, choose **Create**.<br><br>
     ![](/exercises/ex2/images/Screenshot-1-02.png)<br>
 
-4.  Enter **APPROACH_DT264_US_XX** (replace *XX* with your exercise number, for example **APPROACH_DT264_US_01**) as the **Name**.<br><br>
+4.  Enter **APPROACH_DT264_US_XX** (replace *XX* with your seat number, for example **APPROACH_DT264_US_01**) as the **Name**.<br><br>
     ![](/exercises/ex2/images/Screenshot-1-03.png)<br>
 
 5.  Open the **Products / SKUs** [1] tab and select **SAP ECC** as **Source Product** [2] and **SAP S/4HANA Cloud Private Edition (RISE with SAP)** as **Target Product** [3].<br><br>
@@ -88,7 +88,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex2/images/Screenshot-2-09.png)<br>
 
 11. The **Transformation Project** wizard opens.<br><br>
-    Enter **PROJECT_DT264_US_XX** (replace *XX* with your exercise number, for example **PROJECT_DT264_US_01**) as the **Name**, and choose **Save**.<br><br>
+    Enter **PROJECT_DT264_US_XX** (replace *XX* with your seat number, for example **PROJECT_DT264_US_01**) as the **Name**, and choose **Save**.<br><br>
     ![](/exercises/ex2/images/Screenshot-2-10.png)<br>
 
 12. The details of the **Transformation Project** appear, confirming that your project has been successfully created and is ready for implementation.<br><br>
