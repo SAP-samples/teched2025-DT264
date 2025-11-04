@@ -4,7 +4,7 @@
 
 ## Steps:
 Follow these steps to complete the exercise:<br>
-1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**), and open transaction **SE38** (ABAP Editor).<br>
+1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**), and open transaction **SE38** (ABAP Editor).<br>
 
     > **ℹ️ NOTE**: If your system policy doesn’t allow connecting to a custom system, you can **download the MRC and UDP files** [here](../../resources/files/) and continue directly with **step 6**. To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -22,7 +22,7 @@ Follow these steps to complete the exercise:<br>
 5.  Specify a **file path** [1] and choose **Execute** [2] to download the **Maintenance Readiness Check (MRC)** JSON file to your local disk.<br><br>
     ![](/exercises/ex1/images/Screenshot-04.png)<br>
 
-6.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**).<br>
+6.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -32,7 +32,7 @@ Follow these steps to complete the exercise:<br>
 8.  In the **Manage Analysis File** application, choose **Create**.<br><br>
     ![](/exercises/ex1/images/Screenshot-06.png)<br>
 
-9.  Enter **UDP_DT264_US_XX** (replace *XX* with your exercise number, for example **UDP_DT264_US_01**) as the **Name**, and keep the default **Analysis Type**.<br><br>
+9.  Enter **UDP_DT264_US_XX** (replace *XX* with your seat number, for example **UDP_DT264_US_01**) as the **Name**, and keep the default **Analysis Type**.<br><br>
     ![](/exercises/ex1/images/Screenshot-07.png)<br>
 
 10. Upload the ZIP file you downloaded in Step 3 and choose **Create**.<br><br>
@@ -42,7 +42,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex1/images/Screenshot-09.png)<br>
 
 12. Repeat Steps 8 to 11 to upload the **MRC file**:
-    - Enter **MRC_DT264_US_XX** (replace *XX* with your exercise number, for example **MRC_DT264_US_01**) as the Name.
+    - Enter **MRC_DT264_US_XX** (replace *XX* with your seat number, for example **MRC_DT264_US_01**) as the Name.
     - Change the **Analysis Type** to **SAP ERP Maintenance Readiness Check** (MRC).
     - Upload the **MRC JSON file**, confirm the disclaimer, and choose **Create**.
     - Verify that the file has been successfully uploaded.
