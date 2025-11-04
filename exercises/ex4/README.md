@@ -18,7 +18,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within your blueprint, select **Transition Readiness**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-01.png)<br>
 
-    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
+    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
 
 2.  From the list, choose **Select Company Codes**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-02.png)<br>
