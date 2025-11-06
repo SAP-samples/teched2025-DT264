@@ -6,7 +6,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within the **Create a Digital Blueprint** task summary, choose **Navigate to Manage Digital Blueprints**.<br><br>
     ![](/exercises/ex3/images/Screenshot-01.png)<br>
 
-2.  Enter **BLUEPRINT_DT264_XX** (replace *XX* with your exercise number, for example **BLUEPRINT_DT264_01**) as the **Name**, and select the UDP **Analysis** created in the first exercise. Afterwards, choose **Create**.<br><br>
+2.  Enter **BLUEPRINT_DT264_XX** (replace *XX* with your seat number, for example **BLUEPRINT_DT264_01**) as the **Name**, and select the UDP **Analysis** created in the first exercise. Afterwards, choose **Create**.<br><br>
     ![](/exercises/ex3/images/Screenshot-02.png)<br>
 3.  The **Digital Blueprint** has now been successfully created.<br><br>
     ![](/exercises/ex3/images/Screenshot-03.png)<br>

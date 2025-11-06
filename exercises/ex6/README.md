@@ -8,7 +8,7 @@ Follow these steps to complete the exercise:<br>
 
 2.  The **Manage Cycles** application opens with your **Transformation Model** and **Transformation Model Version** preselected.<br>
 3.  Maintain the following details in the **Cycle Attributes** and **System Connection** sections, then choose Create:<br>
-    - **Name**: **CYCLE_DT264_XX** (replace *XX* with your exercise number, for example **CYCLE_DT264_01**)
+    - **Name**: **CYCLE_DT264_XX** (replace *XX* with your seat number, for example **CYCLE_DT264_01**)
     - **Type**: **Test**
     - **Retention Date**: for example **Dec 31, 2025**
     - **Use DTV Tool**: **Yes**

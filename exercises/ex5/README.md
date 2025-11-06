@@ -7,7 +7,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex5/images/Screenshot-01.png)<br>
 
 2.  The **Manage Transformation Models** application opens, with your blueprint already preselected.<br>
-3.  Enter **TRF_MDL_DT264_XX** (replace *XX* with your exercise number, for example **TRF_MDL_DT264_01**) as **Title** and choose **Create**.<br><br>
+3.  Enter **TRF_MDL_DT264_XX** (replace *XX* with your seat number, for example **TRF_MDL_DT264_01**) as **Title** and choose **Create**.<br><br>
     ![](/exercises/ex5/images/Screenshot-02.png)<br>
 
 4.  After a few seconds, the **Transformation Model** is successfully created.<br><br>
