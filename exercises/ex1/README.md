@@ -17,7 +17,7 @@ Follow these steps to complete the exercise:<br>
 5.  Specify a **file path** [1] and choose **Execute** [2] to download the **Maintenance Readiness Check (MRC)** JSON file to your local disk.<br><br>
     ![](/exercises/ex1/images/Screenshot-04.png)<br>
 
-6.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
+6.  Switch to [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -50,7 +50,7 @@ Follow these steps to complete the exercise:<br>
 
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/sok9kkyb) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/s5jtrmmx) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

@@ -10,7 +10,10 @@ Follow these steps to complete the exercise:<br>
 3.  Enter **TRF_MDL_DT264_XX** (replace *XX* with your seat number, for example **TRF_MDL_DT264_01**) as **Title** and choose **Create**.<br><br>
     ![](/exercises/ex5/images/Screenshot-02.png)<br>
 
-4.  After a few seconds, the **Transformation Model** is successfully created.<br><br>
+4.  After a few seconds, the **Transformation Model** is successfully created.<br>
+
+    > **ℹ️ NOTE**:  The **Source System Scan** is running in the background and does not require any action at this stage.
+
     In this view, you can see that the transformation model combines all **transformation objects**, **relations**, **filters**, and **rules** into one consistent technical definition for your transformation initiative.<br><br>
     In addition to the scoped objects defined in your **Digital Blueprint**, extra elements are automatically added to ensure consistency — including semantically related or logically grouped objects, baseline components required for technical stability, and custom objects identified through the **System Scan**.<br><br>
     ![](/exercises/ex5/images/Screenshot-03.png)<br>
@@ -33,22 +36,38 @@ Follow these steps to complete the exercise:<br>
     The filter value is set to **2021**, following the Time Slice definition.<br><br>
     ![](/exercises/ex5/images/Screenshot-08.png)<br>
 
-10. Use the **Back** button to return to the transformation model overview. Then, choose **Create Version**.<br><br>
+10. Use the **Back** button to return to the transformation model overview.<br>
+11. Check that the **Source System Scan** is successful. If it is still **In Progress**, use the **Refresh** button.<br>
+
+    > **ℹ️ NOTE**: The **Source System Scan** may take up to 5–10 minutes to complete. If you prefer not to wait, continue with **Step 14**.
+    
+    During the Source System Scan, a **Connectivity Check** is performed first, followed by an analysis of **customer-specific change documents**. If it detects change documents whose **object classes are not included in the SAP Business Transformation Center content**, corresponding **custom transformation objects** are generated and may require review.<br><br>
+    These checks run sequentially in the background and ensure that all relevant elements are identified and considered before the actual data migration execution.<br><br>
     ![](/exercises/ex5/images/Screenshot-09.png)<br>
 
-11. The **Transformation Model Version** application opens, with your transformation model already preselected.<br>
-12. Enter **MDL_V1** as **Title** and choose **Create**.<br><br>
+12. Choose the **Source System Scan** tab [1] and open **Review Custom Transformation Objects** [2].<br><br>
     ![](/exercises/ex5/images/Screenshot-10.png)<br>
 
-13. After a few seconds, the **Transformation Model Version** is successfully created.<br><br>
-    It represents a **snapshot** of your **transformation model** and serves as the **technical basis** for executing the **data transformation**.<br><br>
-    It contains the same **objects**, **relations**, **filters**, and **rules** as defined in the model, ensuring that each transformation run is performed **consistently** and can be **traced back** to its exact configuration.<br><br>
+13. In the **Review Custom Transformation Objects** dialog, deselect **Change Document – HOLIDAYCAL** from the list and choose **Save**.<br><br>
+    This custom change document is not required for the scope of your transformation and can therefore be excluded.<br><br>
     ![](/exercises/ex5/images/Screenshot-11.png)<br>
 
-14. **Congratulations!** You have successfully completed this exercise.<br><br><br>
+14. Then, choose **Create Version**.<br><br>
+    ![](/exercises/ex5/images/Screenshot-12.png)<br>
+
+15. The **Transformation Model Version** application opens, with your transformation model already preselected.<br>
+16. Enter **MDL_V1** as **Title** and choose **Create**.<br><br>
+    ![](/exercises/ex5/images/Screenshot-13.png)<br>
+
+17. After a few seconds, the **Transformation Model Version** is successfully created.<br><br>
+    It represents a **snapshot** of your **transformation model** and serves as the **technical basis** for executing the **data transformation**.<br><br>
+    It contains the same **objects**, **relations**, **filters**, and **rules** as defined in the model, ensuring that each transformation run is performed **consistently** and can be **traced back** to its exact configuration.<br><br>
+    ![](/exercises/ex5/images/Screenshot-14.png)<br>
+
+18. **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/7v6kfj3m) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/2rq6vmoa) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

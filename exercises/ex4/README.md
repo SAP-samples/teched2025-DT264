@@ -18,7 +18,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within your blueprint, select **Transition Readiness**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-01.png)<br>
 
-    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
+    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
 
 2.  From the list, choose **Select Company Codes**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-02.png)<br>
@@ -150,7 +150,7 @@ Follow these steps to complete the exercise:<br>
 10. **Congratulations!** You have successfully completed this sub-exercise.<br><br><br>  
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264/quiz/5tb847z6) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/hjfx80d7) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>
