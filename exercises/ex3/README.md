@@ -28,7 +28,7 @@ Follow these steps to complete the exercise:<br>
 9.  The **System Scan** overview opens.<br><br>
     Here, you can review information such as the **Software Component Check** (including required versions and SAP Notes), the **Connectivity Status** of the source system, and the current **Scan Status**. If prerequisites are missing or the connection is inactive, the scan cannot be executed until these issues are resolved.<br><br>
     ![](/exercises/ex3/images/Screenshot-09.png)<br>
-10. Choose **Scanned Tables** to explore the scan results.<br><br>
+10. Choose **Client-Dependent Tables** to explore the scan results.<br><br>
     The **System Scan** identifies additional tables not covered in the SAP delivered Transformation Object content, including customer-specific tables (Z and Y), third-party tables (such as SAP Add-Ons), and dependent standard tables. It also detects **essential system tables** that are automatically added to the transformation scope to **ensure system consistency**.<br><br>
     For each table, you can review the **number of entries**, helping you make informed decisions during the upcoming scoping phase.<br><br>
     ![](/exercises/ex3/images/Screenshot-10.png)<br>
