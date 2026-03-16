@@ -1,7 +1,5 @@
 # DT264 - How to start transitioning to SAP Cloud ERP Private
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-DT264)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-DT264)
-
 ## Overview
 <p align="justify">This hands-on session shows how to transition from <b>SAP ERP 6.0</b> to <b>SAP Cloud ERP Private</b> using <b>SAP Business Transformation Center</b> (BTC). It provides a practical introduction to the tools and concepts that support a data-driven transformation journey.</p>
 <p align="justify">During the session, you will evaluate transition options using the <b>Find Transformation Approach</b> app and initialize your first transformation project. These steps form the foundation for executing a <b>Selective Data Transition</b> in later exercises, enabling a <b>smooth</b> and <b>data-driven</b> move to <b>SAP Cloud ERP Private</b>.</p>
