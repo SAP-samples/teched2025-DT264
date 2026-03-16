@@ -12,7 +12,7 @@ Follow these steps to complete the exercise:<br>
 
 4.  After a few seconds, the **Transformation Model** is successfully created.<br>
 
-    > **ℹ️ NOTE**:  The **Source System Scan** is running in the background and does not require any action at this stage.
+    > **ℹ️ NOTE**:  The **Transformation Model Readiness** scan is running in the background and does not require any action at this stage.
 
     In this view, you can see that the transformation model combines all **transformation objects**, **relations**, **filters**, and **rules** into one consistent technical definition for your transformation initiative.<br><br>
     In addition to the scoped objects defined in your **Digital Blueprint**, extra elements are automatically added to ensure consistency — including semantically related or logically grouped objects, baseline components required for technical stability, and custom objects identified through the **System Scan**.<br><br>
@@ -67,7 +67,7 @@ Follow these steps to complete the exercise:<br>
 18. **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/2rq6vmoa) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264dsag/quiz/fvvpuplv) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

@@ -2,11 +2,11 @@
 <p align="justify">In this exercise, you will get an overview of the overall transformation scenario and the system landscape used throughout this hands-on session. You will also review the key preparation steps that have already been completed to set up the environment for the upcoming exercises.</p><br>
 
 ## Customer Situation
-<p align="justify">In this hands-on session, you will work with the fictional company <b>CONSAREA Inc.</b>, a global manufacturer and distributor of premium pencils. CONSAREA is currently running on <b>SAP ERP 6.0 EhP8</b> and has decided to transition to <b>SAP S/4HANA 2023 FPS04</b> in the <b>Private Cloud Environment</b>.</p> 
+<p align="justify">In this hands-on session, you will work with the fictional company <b>CONSAREA Inc.</b>, a global manufacturer and distributor of premium pencils. CONSAREA is currently running on <b>SAP ERP 6.0 EhP8</b> and has decided to transition to <b>SAP S/4HANA 2025 FPS01</b> in the <b>Private Cloud Environment</b>.</p> 
 <p align="justify">Like many real-world enterprises, CONSAREA aims to modernize its IT landscape while keeping the transition lean and cost-efficient.</p><br> 
 
 ## DT264 at a Glance
-<p align="justify">This hands-on session consists of <b>two main parts</b> that together illustrate a complete, data-driven transition journey from <b>SAP ERP</b> to <b>SAP S/4HANA 2023 FPS04</b> in the <b>Private Cloud Environment</b>.</p>
+<p align="justify">This hands-on session consists of <b>two main parts</b> that together illustrate a complete, data-driven transition journey from <b>SAP ERP</b> to <b>SAP S/4HANA 2025 FPS01</b> in the <b>Private Cloud Environment</b>.</p>
 
 <p align="justify">In the <b>first part</b>, you will use the <b>Find Transformation Approach</b> app to determine the most suitable transformation scenario for the company. As a result of this assessment, <b>Selective Data Transition</b> will be identified as the best-fit approach for CONSAREA.</p>
 
@@ -22,7 +22,7 @@
 
 <p align="justify">To enable <b>Lean SDT</b> with <b>SAP Business Transformation Center</b> (BTC), a <b>shell copy</b> of the source SAP ECC system is required. This shell contains only the <b>customizing and technical repository</b>, forming the foundation for a lean and controlled transition. By excluding application data such as master or transactional records, the shell provides a clean configuration baseline for the new SAP S/4HANA system.</p>
 
-<p align="justify">Based on this requirement, the following setup steps were performed to prepare the target environment. A copy of the source system was created using <b>Software Provisioning Manager</b> (SWPM) with the Shell Copy [1] option. Once the shell system was available, the client designated for <b>SAP Business Transformation Center</b> was copied using a <b>remote client copy</b> [2] with a customizing-only profile. Finally, the prepared shell system was <b>moved and converted in a single step</b> to <b>SAP S/4HANA 2023 FPS04</b> using the <b>Database Migration Option with System Move to SAP S/4HANA</b> (DMOVE2S4) [3] approach, executed via <b>RISE with SAP System Transition Workbench</b>.</p>
+<p align="justify">Based on this requirement, the following setup steps were performed to prepare the target environment. A copy of the source system was created using <b>Software Provisioning Manager</b> (SWPM) with the Shell Copy [1] option. Once the shell system was available, the client designated for <b>SAP Business Transformation Center</b> was copied using a <b>remote client copy</b> [2] with a customizing-only profile. Finally, the prepared shell system was <b>moved and converted in a single step</b> to <b>SAP S/4HANA 2025 FPS01</b> using the <b>Database Migration Option with System Move to SAP S/4HANA</b> (DMOVE2S4) [3] approach, executed via <b>RISE with SAP System Transition Workbench</b>.</p>
 
 <p align="justify">This process transfers the prepared shell directly to the Private Cloud Environment and performs the technical conversion in one integrated step — resulting in a clean, preconfigured target system.</p>
 

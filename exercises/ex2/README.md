@@ -13,7 +13,7 @@ This exercise consists of the following sub-exercises:
 
 ### Steps:
 Follow these steps to complete the exercise:<br>
-1.  Open [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
+1.  Open [SAP Cloud ALM](https://calm-51338ojk.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -26,10 +26,10 @@ Follow these steps to complete the exercise:<br>
 4.  Enter **APPROACH_DT264_XX** (replace *XX* with your seat number, for example **APPROACH_DT264_01**) as the **Name**.<br><br>
     ![](/exercises/ex2/images/Screenshot-1-03.png)<br>
 
-5.  Open the **Products / SKUs** [1] tab and select **SAP ECC** as **Source Product** [2] and **SAP S/4HANA Cloud Private Edition (RISE with SAP)** as **Target Product** [3].<br><br>
+5.  In the **Products / SKUs** [1] section, select **SAP ERP** as **Source Product** [2] and **SAP Cloud ERP Private (SAP S/4HANA Cloud Private Edition)** as **Target Product** [3].<br><br>
     ![](/exercises/ex2/images/Screenshot-1-04.png)<br>
 
-6.  Open the **Analysis** tab and select the **MRC** and **UDP** files created in the previous exercise. Then choose **Create**.<br><br>
+6.  In the **Analysis** section, select the **MRC** and **UDP** files created in the previous exercise. Then choose **Create**.<br><br>
     ![](/exercises/ex2/images/Screenshot-1-05.png)<br>
 
 7.  The project details appear, visualizing the first **system metrics** such as **Lifespan**, **Size** and **Extensibility**.<br><br>
@@ -60,12 +60,12 @@ Follow these steps to complete the exercise:<br>
 
 4.  Repeat Steps 2 and 3 to answer the other questions.<br>
     - Question 2 (Planned Rollout Strategy): Select **Full system (Low effort)**
-    - Question 3 (Business System Downtime): Select **Less than 48 hours (Medium effort)**
-    - Question 4 (Re-Engineering & Change Management): Select **Medium demand to change (Moderate effort)**
+    - Question 3 (Downtime): Select **Less than 48 hours (Medium effort)**
+    - Question 4 (Business Process Requirements): Select **Medium demand to change (Moderate effort)**
     - Question 5 (Data Scope): Select **Only active and relevant data incl. history (Low effort)**
-    - Question 6 (Transformation Requirements): Select **Medium (Moderate effort)**
-    - Question 7 (Company Codes): Select **Yes, it is**
-    - Question 8 (Customer Tables): Select **Yes, it is**
+    - Question 6 (Data Transformation): Select **Medium (Moderate effort)**
+    - Question 7 (Unused Company Codes): Select **Exclude those company codes from the SAP S/4HANA migration scope**
+    - Question 8 (Retaining or Excluding Data from Customer Tables): Select **Exclude data that is no longer relevant from the SAP S/4HANA migration scope**
 
 5.  Choose **Save**.<br><br>
     ![](/exercises/ex2/images/Screenshot-2-04.png)<br>
@@ -108,7 +108,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within your transformation project, choose **Go to Transformation Project Overview**.<br><br>
     ![](/exercises/ex2/images/Screenshot-3-01.png)<br>
 
-3.  The **Project Overview** appears. Under **Project Tasks**, open the first task **Set Up and Configure SAP Business Transformation Center**.<br><br>
+3.  The **Project Overview** appears. Under **Project Tasks**, choose **More** and open the task **Set Up and Configure SAP Business Transformation Center**.<br><br>
     ![](/exercises/ex2/images/Screenshot-3-02.png)<br>
 
 4.  The **Tasks** application opens with the task preselected. Review the description of the activities that need to be completed within this step.<br><br>
@@ -129,7 +129,7 @@ Follow these steps to complete the exercise:<br>
 9.  **Congratulations!** You have successfully completed this sub-exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/bj786kbg) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264dsag/quiz/weuhpfpb) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

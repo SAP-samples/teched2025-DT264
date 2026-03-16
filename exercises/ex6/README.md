@@ -10,7 +10,7 @@ Follow these steps to complete the exercise:<br>
 3.  Maintain the following details in the **Cycle Attributes** and **System Connection** sections, then choose Create:<br>
     - **Name**: **CYCLE_DT264_XX** (replace *XX* with your seat number, for example **CYCLE_DT264_01**)
     - **Type**: **Test**
-    - **Retention Date**: for example **Dec 31, 2025**
+    - **Retention Date**: for example **Dec 31, 2026**
     - **Use DTV Tool**: **Yes**
     - **Source System**: **SRC.300**
     - **Target System**: **TGT.300**
@@ -41,7 +41,7 @@ Follow these steps to complete the exercise:<br>
 9.  **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/35hhkrpd) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264dsag/quiz/04nyj3wp) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

@@ -18,7 +18,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within your blueprint, select **Transition Readiness**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-01.png)<br>
 
-    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
+    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-51338ojk.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and select your blueprint.
 
 2.  From the list, choose **Select Company Codes**.<br><br>
     ![](/exercises/ex4/images/Screenshot-1-02.png)<br>
@@ -51,7 +51,7 @@ Follow these steps to complete the exercise:<br>
 2.  The **Solution Pattern** application opens, showing available configuration options. Choose **Data Distribution** to review the current data footprint by fiscal year.<br><br>
     ![](/exercises/ex4/images/Screenshot-2-02.png)<br><br>
 3.  This view provides an overview of how data is distributed across time periods and helps you decide from which fiscal year onward the data should be migrated.<br><br>
-    The chart shows the **Total Data Count** across all fiscal years [1] (transactional data) and visualizes the distribution trend. For the hands-on, the **last five fiscal years** are highlighted [2], as the company decided to include only this timeframe in the migration scope.<br><br>
+    The chart shows the **Total Data Count** across all fiscal years [1] (transactional data) and visualizes the distribution trend. For the hands-on, the **last six fiscal years** are highlighted [2], as the company decided to include only this timeframe in the migration scope.<br><br>
     ![](/exercises/ex4/images/Screenshot-2-03.png)<br><br>
 4.  Scroll up and choose **Edit** to activate the pattern.<br><br>
     ![](/exercises/ex4/images/Screenshot-2-04.png)<br><br>
@@ -63,7 +63,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex4/images/Screenshot-2-07.png)<br><br>
 8.  To review the impact on the data footprint, go to **Related Apps** > **Digital Blueprint Overview**.<br><br>
     ![](/exercises/ex4/images/Screenshot-2-08.png)<br><br>
-9.  The overview shows that, in combination with the **Org Slice**, around **33% of the overall data** has been excluded from the migration scope.<br><br>
+9.  The overview shows that, in combination with the **Org Slice**, around **37% of the overall data** has been excluded from the migration scope.<br><br>
     ![](/exercises/ex4/images/Screenshot-2-09.png)<br><br>
 10.  Use the **Back** button in the Launchpad to return to the blueprint.<br><br>
 11.  **Congratulations!** You have successfully completed this sub-exercise.<br><br><br>
@@ -150,7 +150,7 @@ Follow these steps to complete the exercise:<br>
 10. **Congratulations!** You have successfully completed this sub-exercise.<br><br><br>  
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264in/quiz/hjfx80d7) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/dt264dsag/quiz/858zpa1e) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>
